@@ -1,3 +1,3 @@
 const txt = 'Hello World!'
 
-console.log(txt)
+console.log(txt,'<<text')
